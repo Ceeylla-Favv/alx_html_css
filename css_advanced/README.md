@@ -57,11 +57,6 @@ To run the project locally:
 
 ---
 
-## 📸 Preview
-
-
----
-
 ## 📜 License
 
 This project is for educational purposes only.
